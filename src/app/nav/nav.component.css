@@ -1,0 +1,14 @@
+.logo
+{
+    height: 3rem;
+}
+.bg-light
+{
+    background-color:rgb(220, 242, 245)!important;
+}
+
+.navbar-nav .nav-link
+{
+    font-size: large !important;
+    color:#0d9472!important; 
+}
